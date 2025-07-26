@@ -1,13 +1,13 @@
 ## 👋 Olá, eu sou a Suene Lima!
-� Sobre Mim
 
-🎓 Estudante de Sistemas para Internet
+### 👩‍💻 Sobre Mim
 
-💼 Atualmente trabalho como Suporte de TI
+🎓 Estudante de **Sistemas para Internet** no IFTO  
+💼 Atuando como **Suporte de TI**  
+📚Monitora de Informática Básica
+🚀 Apaixonada por tecnologia, redes e programação  
+📚 Em constante aprendizado e evolução
 
-👩‍💻 Monitora de Informática Básica
-
-🌱 Aprendendo constantemente sobre redes, programação
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
