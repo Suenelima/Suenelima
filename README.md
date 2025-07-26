@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/suene-ferreira-543050223" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
   </a> 
-  <a href="suenelima94@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
-  </a>
+  
+   <a href="mailto:suenelima94@gmail.com?subject=Contato%20via%20GitHub">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </div>
