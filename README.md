@@ -5,6 +5,7 @@
 🎓 Estudante de **Sistemas para Internet** no IFTO  
 💼 Atuando como **Suporte de TI**  
 📚Monitora de Informática Básica
+
 🚀 Apaixonada por tecnologia, redes e programação  
 📚 Em constante aprendizado e evolução
 
